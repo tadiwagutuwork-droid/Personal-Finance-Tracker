@@ -83,6 +83,9 @@ This project is licensed under the MIT License.
 ## Author
 Tadiwa Gutu  
 
-GitHub: https://github.com/tadiwagutuwork-droid  
-LinkedIn: https://www.linkedin.com/in/tadiwa-gutu/
+GitHub: 
+`https://github.com/tadiwagutuwork-droid`
+
+LinkedIn:
+`https://www.linkedin.com/in/tadiwa-gutu/`
 
